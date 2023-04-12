@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#disp{
+    height: 100vh;
+}
+.intro{
+    text-align: center;
+    color: rgb(39, 34, 134);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+.intro p{
+    font-style: italic;
+    text-decoration: underline;
+}
+.intro h4{
+    color:goldenrod;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.intro p span{
+    color: rgb(203, 36, 36);
+}
+#html-code{
+    width: 30%;
+    height: 50%;
+    border: 3.5px solid black;
+    display: inline;
+    margin-left: 2px;
+}
+
+#css-code{
+    width: 39%;
+    height: 50%;
+    border: 3.5px solid black;
+    display: inline;
+}
+
+#js-code{
+    width: 30%;
+    height: 50%;
+    border: 3.5px solid black;
+    display: inline;
+}
+#output{
+    width: 98%;
+    height: 50%;
+    border: 3.5px solid black;
+    display: inline;
+    margin-left: 9px;
+}
